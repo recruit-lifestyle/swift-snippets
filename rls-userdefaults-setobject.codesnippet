@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rls-userdefaults-setobject</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let userDefaults = NSUserDefaults.standardUserDefaults()
+        userDefaults.setObject(&lt;#T##value: AnyObject?##AnyObject?#&gt;, forKey: &lt;#T##String#&gt;)
+        userDefaults.synchronize()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6C4B4653-B3BC-41ED-B29F-31ED34DD1EEA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A UserDefaults sample for Swift.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RLS userdefaults setobject</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

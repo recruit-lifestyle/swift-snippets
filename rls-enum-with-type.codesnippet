@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>enum</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>enum &lt;#Name#&gt;: &lt;#raw type#&gt; {
+            case &lt;#case1#&gt; = &lt;#raw value#&gt;
+            case &lt;#case2#&gt; = &lt;#raw value#&gt;
+            case &lt;#case3#&gt; = &lt;#raw value#&gt;
+        }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E4ABCB2F-AE1B-4C9D-8B8E-4824E2915591</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Declear a enumerated type for Swift (with type).</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RLS enum with type</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
