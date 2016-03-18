@@ -57,6 +57,10 @@ Meanwhile, when you want to use some relatively long fixed phrases (using userde
 Candidates will be shown in appropriate scope.
 For example, you can use `enum` everywhere, but `guard` can be used only in methods.
 
+## Inspiration
+We were inspired by Kamil Burczyk's [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets).
+
+Our snippets supports Swift2.0+, and we have wider variety of those.
 
 ## Tips
 You can easily add snippets to your Xcode.  
