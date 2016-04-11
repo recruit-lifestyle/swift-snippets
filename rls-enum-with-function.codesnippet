@@ -13,9 +13,9 @@
             case &lt;#case1#&gt;, &lt;#case2#&gt;, &lt;#case3#&gt;
             func &lt;#function#&gt;() -&gt; &lt;#T#&gt; {
                 switch self {
-                case .&lt;#case1#&gt; return &lt;#ret1#&gt;
-                case .&lt;#case2#&gt; return &lt;#ret2#&gt;
-                case .&lt;#case3#&gt; return &lt;#ret3#&gt;
+                case .&lt;#case1#&gt;: return &lt;#ret1#&gt;
+                case .&lt;#case2#&gt;: return &lt;#ret2#&gt;
+                case .&lt;#case3#&gt;: return &lt;#ret3#&gt;
                 }
             }
         }</string>
@@ -30,6 +30,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>

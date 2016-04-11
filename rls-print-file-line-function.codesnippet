@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print(__FILE__, __LINE__, __FUNCTION__)</string>
+	<string>print(#file, #line, #function)</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8EA2296F-7014-40F9-A4FE-D18DAA044960</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -21,6 +21,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>

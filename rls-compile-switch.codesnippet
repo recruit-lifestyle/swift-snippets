@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#if &lt;#config#&gt;
 &lt;#code#&gt;
-#else &lt;#config#&gt;
+#elseif &lt;#config#&gt;
 &lt;#code#&gt;
 #else
 &lt;#code#&gt;
@@ -27,6 +27,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>
