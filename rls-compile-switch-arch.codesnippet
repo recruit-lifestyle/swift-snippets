@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#if arch(x86_64) || arch(arm64)
 &lt;#code#&gt;
-#else arch(i386) || arch(arm)
+#elseif arch(i386) || arch(arm)
 &lt;#code#&gt;
 #else
 &lt;#code#&gt;
@@ -27,6 +27,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>

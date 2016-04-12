@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>var &lt;#value#&gt; = &lt;##&gt; {
+	<string>var &lt;#value#&gt;: &lt;##&gt; {
         willSet {
             print(newValue)
         }
@@ -28,6 +28,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>
